@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm Vrishak Vemuri (he/him, ENFJ)
+
+I'm interested in electrical engineering and machine learning.
+
+[![wakatime](https://wakatime.com/badge/user/f50c2eed-58dc-4111-9ea8-620b41bd44f8.svg)](https://wakatime.com/@f50c2eed-58dc-4111-9ea8-620b41bd44f8)
+
 <!--
 **FluffyCube9343/FluffyCube9343** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
