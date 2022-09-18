@@ -1,8 +1,14 @@
 ### Hi there 👋
 
-I'm Vrishak Vemuri (he/him, ENFJ)
+I'm Vrishak Vemuri (he/him, ENFJ), a current sophomore at TJHSST.
 
-I'm interested in electrical engineering and machine learning.
+I'm intersted in projects involving machine learning, electrical engineering, and mechanical engineering.
+
+I work on:<br/>
+[Potentia Robotics](https://github.com/PotentiaRobotics) <br/>
+[Project Caelus](https://github.com/ProjectCaelus)<br/>
+[TJ UAV](https://github.com/tj-uav)<br/>
+[TJHSST Self Driving Cars](https://github.com/TJHSST-Self-Driving-Cars)<br/>
 
 [![wakatime](https://wakatime.com/badge/user/f50c2eed-58dc-4111-9ea8-620b41bd44f8.svg)](https://wakatime.com/@f50c2eed-58dc-4111-9ea8-620b41bd44f8)
 
