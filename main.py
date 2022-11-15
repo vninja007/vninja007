@@ -18,14 +18,14 @@ while True:
 
         print("is making dadjoke")
         joke = past[:]
-        while(joke[:]!=past[:]):
+        while(joke[:]==past[:]):
             joke = random.choice(jokes)
         canReset = False
         with open("README.md") as rfile:
             with open("rm2.md","a+") as wfile:
                 for line in rfile:
                     if(len(line) > 3 and "Dad joke of the day" in line):
-                        wfile.write("\t Dad joke of the day: "+joke)
+                        wfile.write("Dad joke of the day: "+joke)
                         wfile.write("\n")
                     else:
                         wfile.write(line)
