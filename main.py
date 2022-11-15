@@ -15,7 +15,7 @@ while True:
     now = datetime.datetime.now()
     if(now.hour==0 and canReset):
         print(now.hour)
-        
+
         print("is making dadjoke")
         joke = past[:]
         while(joke[:]!=past[:]):
@@ -25,7 +25,7 @@ while True:
             with open("rm2.md","a+") as wfile:
                 for line in rfile:
                     if(len(line) > 3 and "Dad joke of the day" in line):
-                        wfile.write("Dad joke of the day: "+joke)
+                        wfile.write("\t Dad joke of the day: "+joke)
                         wfile.write("\n")
                     else:
                         wfile.write(line)
