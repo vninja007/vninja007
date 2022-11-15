@@ -14,6 +14,8 @@ print("initialized!")
 while True:
     now = datetime.datetime.now()
     if(now.hour==0 and canReset):
+        print(now.hour)
+        
         print("is making dadjoke")
         joke = past[:]
         while(joke[:]!=past[:]):
