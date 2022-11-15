@@ -1,6 +1,7 @@
 import os
 import datetime
 import random
+print("started!")
 past="I'm afraid for the calendar. Its days are numbered." #Joke #1
 jokes = []
 with open("jokes.txt") as rfile:
@@ -9,6 +10,7 @@ with open("jokes.txt") as rfile:
 jokes = [i.replace("\n","") for i in jokes]
 
 canReset = True
+print("initialized!")
 while True:
     now = datetime.datetime.now()
     if(now.hour==0 and canReset):
