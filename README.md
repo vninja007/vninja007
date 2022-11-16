@@ -10,7 +10,7 @@ I work on:<br/>
 [TJ UAV](https://github.com/tj-uav)<br/>
 [TJHSST Self Driving Cars](https://github.com/TJHSST-Self-Driving-Cars)<br/>
 
-Automated Script: <br/>
+
 ```
 Dad joke of the day: I'm afraid for the calendar. Its days are numbered.
 ```
