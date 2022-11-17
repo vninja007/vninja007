@@ -9,3 +9,11 @@ To https://github.com/FluffyCube9343/FluffyCube9343.git
    ea16caa..12f4d7a  main -> main
 started!
 initialized!
+[main 5807834] DJOTD 2022-11-16
+ 2 files changed, 69 insertions(+), 1 deletion(-)
+Traceback (most recent call last):
+  File "/home/ubuntu/FluffyCube9343/main.py", line 30, in <module>
+    else:
+FileNotFoundError: [Errno 2] No such file or directory: 'README.md'
+To https://github.com/FluffyCube9343/FluffyCube9343.git
+   7c29597..5807834  main -> main
