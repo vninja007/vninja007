@@ -17,3 +17,13 @@ Traceback (most recent call last):
 FileNotFoundError: [Errno 2] No such file or directory: 'README.md'
 To https://github.com/FluffyCube9343/FluffyCube9343.git
    7c29597..5807834  main -> main
+[main e85e0b6] DJOTD 2022-11-17
+ 2 files changed, 9 insertions(+), 1 deletion(-)
+To https://github.com/FluffyCube9343/FluffyCube9343.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/FluffyCube9343/FluffyCube9343.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
