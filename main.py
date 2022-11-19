@@ -13,6 +13,7 @@ canReset = True
 print("initialized!")
 while True:
     now = datetime.datetime.now()
+    
     if(now.hour==0 and canReset):
         print(now.hour)
 
