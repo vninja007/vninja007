@@ -12,7 +12,7 @@ I work on:<br/>
 
 Automated Script: <br/>
 ```
-Dad joke of the day: I'm afraid for the calendar. Its days are numbered.
+Dad joke of the day: I wouldn't buy anything with velcro. It's a total rip-off.
 ```
 [![wakatime](https://wakatime.com/badge/user/f50c2eed-58dc-4111-9ea8-620b41bd44f8.svg)](https://wakatime.com/@f50c2eed-58dc-4111-9ea8-620b41bd44f8) <br/>
 [![Vrishak's GitHub stats](https://github-readme-stats.vercel.app/api?username=FluffyCube9343)](https://github.com/FluffyCube9343/github-readme-stats) <br/>
@@ -45,7 +45,7 @@ I work on:<br/>
 
 Automated Script: <br/>
 ```
-Dad joke of the day: I'm afraid for the calendar. Its days are numbered.
+Dad joke of the day: I wouldn't buy anything with velcro. It's a total rip-off.
 ```
 [![wakatime](https://wakatime.com/badge/user/f50c2eed-58dc-4111-9ea8-620b41bd44f8.svg)](https://wakatime.com/@f50c2eed-58dc-4111-9ea8-620b41bd44f8) <br/>
 [![Vrishak's GitHub stats](https://github-readme-stats.vercel.app/api?username=FluffyCube9343)](https://github.com/FluffyCube9343/github-readme-stats) <br/>
