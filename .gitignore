@@ -1,6 +1,9 @@
 nohup.out
 main.py
 
+#its a secret ;)
+main.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
