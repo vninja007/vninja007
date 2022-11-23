@@ -12,7 +12,7 @@ I work on:<br/>
 
 
 ```
-Dad joke of the day: Is this pool safe for diving? It deep ends.
+Dad joke of the day: Whenever I try to eat healthy, a chocolate bar looks at me and Snickers.
 ```
 [![wakatime](https://wakatime.com/badge/user/f50c2eed-58dc-4111-9ea8-620b41bd44f8.svg)](https://wakatime.com/@f50c2eed-58dc-4111-9ea8-620b41bd44f8) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FluffyCube9343)](https://github.com/FluffyCube9343/github-readme-stats)
