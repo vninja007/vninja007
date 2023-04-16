@@ -1,15 +1,10 @@
-### Hi there 👋
+### About Me
 
-I'm Vrishak Vemuri (he/him, ENFJ), a current sophomore at TJHSST.
+Vrishak Vemuri 
+♂️ He/him ENFJ
+🗺️ Living in Virginia, USA
+📓 Sophomore at TJHSST.
 
-I'm intersted in projects involving machine learning, electrical engineering, and mechanical engineering.
-
-
-I work on:<br/>
-[Potentia Robotics](https://github.com/PotentiaRobotics) <br/>
-[Project Caelus](https://github.com/ProjectCaelus)<br/>
-[TJ UAV](https://github.com/tj-uav)<br/>
-[TJHSST Self Driving Cars](https://github.com/TJHSST-Self-Driving-Cars)<br/>
 
 
 ```
