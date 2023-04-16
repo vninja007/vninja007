@@ -1,9 +1,9 @@
 ### About Me
 
 Vrishak Vemuri 
-♂️ He/him ENFJ
-🗺️ Living in Virginia, USA
-📓 Sophomore at TJHSST.
+- ♂️ He/him ENFJ
+- 🗺️ Living in Virginia, USA
+- 📓 Sophomore at TJHSST.
 
 
 
