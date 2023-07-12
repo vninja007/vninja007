@@ -2,7 +2,7 @@
 
 Vrishak Vemuri 
 - ♂️ He/him ENFJ
-- 📓 Sophomore at TJHSST.
+- 📓 Junior at TJHSST.
 
 
 
