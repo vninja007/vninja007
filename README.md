@@ -1,21 +1,45 @@
-### About Me
+# Hello! 👋
 
-Vrishak Vemuri 
-- ♂️ He/him ENFJ
-- 📓 Junior at TJHSST.
- 
-Constantly exploring electrical engineering as a field.
+### I'm Vrishak Vemuri, a junior at TJHSST.
 
-2023 Stats:
-- Arduinos Fried: 4 
+- 🗺️ I'm from Aldie, Virginia (EST/EDT)
+- 😎 ENFJ-T
+- 🌱 I'm learning... everything 😆
+- ⚡ I like making electronics go boom.
+- 💬 Ask me anything lol.
+
+## 🖥️ Coding Habits
+
+I tend to code the most on **Tuesdays**, but code the least on **Mondays**.
+```
+Sunday: ⣿⣿⣿⣿⣿⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀ 29 commits
+Monday: ⣿⣿⣷⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀ 16 commits
+Tuesday: ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀ 66 commits
+Wednesday: ⣿⣿⣿⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀ 17 commits
+Thursday: ⣿⣿⣿⣿⣶⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀ 27 commits
+Friday: ⣿⣿⣿⣿⣿⣷⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀ 34 commits
+Saturday: ⣿⣿⣿⣿⣿⣿⣿⣷⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀ 46 commits
+```
+
+## ⛅ Weather Report
+Today in Aldie, VA, it is a **hot** day with a high of **96 °F** and a low of **73 °F**. In the day, it will be mostly cloudy w/ t-storms with heavy rain. In the night, it will be mostly cloudy with no precipitation.
+## 📈 2023 Stats
+- Arduinos Fried: 4
 - Magic Blue Smoke: 2
 - \# of components in coffins: 5
- 
+## 🤣 Dad Joke of the Day
+``` It hurts me to say this, but I have a sore throat. ```
+## 👀 View Count
 
+██╗░░░██╗██╗███████╗░██╗░░░░░░░██╗░██████╗██╗   ░░███╗░░░█████╗░░█████╗░
+██║░░░██║██║██╔════╝░██║░░██╗░░██║██╔════╝╚═╝   ░████║░░██╔══██╗██╔══██╗
+╚██╗░██╔╝██║█████╗░░░╚██╗████╗██╔╝╚█████╗░░░░   ██╔██║░░██║░░██║╚██████║
+░╚████╔╝░██║██╔══╝░░░░████╔═████║░░╚═══██╗░░░   ╚═╝██║░░██║░░██║░╚═══██║
+░░╚██╔╝░░██║███████╗░░╚██╔╝░╚██╔╝░██████╔╝██╗   ███████╗╚█████╔╝░█████╔╝
+░░░╚═╝░░░╚═╝╚══════╝░░░╚═╝░░░╚═╝░░╚═════╝░╚═╝   ╚══════╝░╚════╝░░╚════╝░
+## 🙏 Thanks For Reading!
+Watch some Star Wars in the meantime
+[insert temporary star wars link]
 
-```
-Dad joke of the day: Whenever I try to eat healthy, a chocolate bar looks at me and Snickers.
-```
-<!-- [![Vrishak's GitHub stats](https://github-readme-stats.vercel.app/api?username=vninja007)](https://github.com/anuraghazra/github-readme-stats) <br/> -->
- ![](https://komarev.com/ghpvc/?username=vninja007)
-![](https://github.com/vninja007/vninja007/blob/output/github-contribution-grid-snake2.svg)
+ This page was last updated 2023-07-28 UTC-04:00
+![](https://komarev.com/ghpvc/?username=vninja007)
