@@ -18,3 +18,4 @@ Dad joke of the day: Whenever I try to eat healthy, a chocolate bar looks at me 
 ```
 <!-- [![Vrishak's GitHub stats](https://github-readme-stats.vercel.app/api?username=vninja007)](https://github.com/anuraghazra/github-readme-stats) <br/> -->
 ![](https://komarev.com/ghpvc/?username=vninja007)
+![snake animation](https://github.com/vninja007/vninja007/blob/output/github-contribution-grid-snake2.svg)
