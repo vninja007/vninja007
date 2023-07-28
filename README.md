@@ -3,7 +3,7 @@
 Vrishak Vemuri 
 - ♂️ He/him ENFJ
 - 📓 Junior at TJHSST.
-
+ 
 Constantly exploring electrical engineering as a field.
 
 2023 Stats:
