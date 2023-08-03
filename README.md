@@ -26,7 +26,7 @@ Today in Aldie, VA, it is a **warm** day with a high of **79 °F** and a low of 
 ## 📈 2023 Stats
 - Arduinos Fried: 4
 - Magic Blue Smoke: 2
-- \# of components in coffins: 5
+- \# of components in coffins: 7
 ## 🤣 Dad Joke of the Day
 ``` I have a joke about putting in a light bulb, but I'm afraid I'll screw it up. ```
 ## 👀 View Count
