@@ -12,9 +12,9 @@
 
 I tend to code the most on **Tuesdays**, but code the least on **Mondays**.
 ```
-Sunday:		 ⣿⣿⣿⣿⣿⣤⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀ 40 commits
+Sunday:		 ⣿⣿⣿⣿⣿⣦⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀ 41 commits
 Monday:		 ⣿⣿⣶⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀ 20 commits
-Tuesday:	 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀ 76 commits
+Tuesday:	 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀ 76 commits
 Wednesday:	 ⣿⣿⣷⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀ 21 commits
 Thursday:	 ⣿⣿⣿⣿⣦⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀ 33 commits
 Friday:		 ⣿⣿⣿⣿⣿⣿⣿⣀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀ 52 commits
@@ -22,13 +22,13 @@ Saturday:	 ⣿⣿⣿⣿⣿⣿⣿⣄⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀
 ```
 
 ## ⛅ Weather Report
-Today in Aldie, VA, it is a **hot** day with a high of **91 °F** and a low of **66 °F**. In the day, it will be mostly sunny with no precipitation. In the night, it will be partly cloudy w/ t-storms with light rain.
+Today in Aldie, VA, it is a **hot** day with a high of **91 °F** and a low of **67 °F**. In the day, it will be mostly sunny with no precipitation. In the night, it will be intermittent clouds with no precipitation.
 ## 📈 2023 Stats
 - Arduinos Fried: 4
 - Magic Blue Smoke: 3
 - \# of components in coffins: 7
 ## 🤣 Dad Joke of the Day
-``` Did you hear about the ATM that got addicted to money? It suffered from withdrawals. ```
+``` Where do young trees go to learn? Elementree school. ```
 ## 👀 View Count
 
 ██╗░░░██╗██╗███████╗░██╗░░░░░░░██╗░██████╗██╗
@@ -39,8 +39,8 @@ Today in Aldie, VA, it is a **hot** day with a high of **91 °F** and a low of *
 <br/>░░░╚═╝░░░╚═╝╚══════╝░░░╚═╝░░░╚═╝░░╚═════╝░╚═
 <br/>
 <br/>███████╗░█████╗░░░███╗░░
-<br/>██╔════╝██╔═══╝░░████║░░
-<br/>██████╗░██████╗░██╔██║░░
+<br/>██╔════╝██╔══██╗░████║░░
+<br/>██████╗░╚█████╔╝██╔██║░░
 <br/>╚════██╗██╔══██╗╚═╝██║░░
 <br/>██████╔╝╚█████╔╝███████╗
 <br/>╚═════╝░░╚════╝░╚══════╝
@@ -51,6 +51,6 @@ Watch some Star Wars in the meantime
 
 ![](https://github.com/vninja007/ReadmeUpdater/blob/main/star%20wars.gif)
 
- This page was last updated **2023-08-13 09:00:08 UTC+00:00**
+ This page was last updated **2023-08-13 21:00:08 UTC+00:00**
 
-![](https://komarev.com/ghpvc/?username=vninja007)
+![](https://komarev.com/ghpvc/?username=vninja007&style=for-the-badge&label=%20&color=FFFFFF)
