@@ -18,17 +18,17 @@ Tuesday:	 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀�
 Wednesday:	 ⣿⣿⣿⣄⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀ 27 commits
 Thursday:	 ⣿⣿⣿⣿⣶⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀ 39 commits
 Friday:		 ⣿⣿⣿⣿⣿⣿⣿⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀ 58 commits
-Saturday:	 ⣿⣿⣿⣿⣿⣿⣿⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀ 58 commits
+Saturday:	 ⣿⣿⣿⣿⣿⣿⣿⣀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀ 59 commits
 ```
 
 ## ⛅ Weather Report
-Today in Aldie, VA, it is a **hot** day with a high of **89 °F** and a low of **64 °F**. In the day, it will be mostly sunny with no precipitation. In the night, it will be mostly clear with no precipitation.
+Today in Aldie, VA, it is a **hot** day with a high of **96 °F** and a low of **71 °F**. In the day, it will be sunny with no precipitation. In the night, it will be mostly clear with no precipitation.
 ## 📈 2023 Stats
 - Arduinos Fried: 4
 - Magic Blue Smoke: 3
 - \# of components in coffins: 7
 ## 🤣 Dad Joke of the Day
-``` I was going to tell a time-traveling joke, but you guys didn't like it. ```
+``` Why couldn't the bicycle stand up by itself? It was two tired. ```
 ## 👀 View Count
 
 ██╗░░░██╗██╗███████╗░██╗░░░░░░░██╗░██████╗██╗
@@ -40,9 +40,9 @@ Today in Aldie, VA, it is a **hot** day with a high of **89 °F** and a low of *
 <br/>
 <br/>███████╗░░███╗░░░█████╗░
 <br/>╚════██║░████║░░██╔══██╗
-<br/>░░░░██╔╝██╔██║░░╚█████╔╝
-<br/>░░░██╔╝░╚═╝██║░░██╔══██╗
-<br/>░░██╔╝░░███████╗╚█████╔╝
+<br/>░░░░██╔╝██╔██║░░╚██████║
+<br/>░░░██╔╝░╚═╝██║░░░╚═══██║
+<br/>░░██╔╝░░███████╗░█████╔╝
 <br/>░░╚═╝░░░╚══════╝░╚════╝░
 
  Note: The viewcounter may not be mobile friendly 😅
@@ -51,6 +51,6 @@ Watch some Star Wars in the meantime
 
 ![](https://github.com/vninja007/ReadmeUpdater/blob/main/star%20wars.gif)
 
- This page was last updated **2023-09-02 21:00:08 UTC+00:00**
+ This page was last updated **2023-09-03 09:00:08 UTC+00:00**
 
 ![](https://komarev.com/ghpvc/?username=vninja007&style=for-the-badge&label=%20&color=FFFFFF)
