@@ -53,4 +53,6 @@ Watch some Star Wars in the meantime
 
  This page was last updated **2023-10-17 09:00:08 UTC+00:00**
 
+ **Note: This is temporarily down since I need to find another free-tier EC2**
+
 ![](https://komarev.com/ghpvc/?username=vninja007&style=for-the-badge&label=%20&color=FFFFFF)
