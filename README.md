@@ -51,8 +51,8 @@ Watch some Star Wars in the meantime
 
 ![](https://github.com/vninja007/ReadmeUpdater/blob/main/star%20wars.gif)
 
- This page was last updated **2024-11-01 08:37:53 UTC-04:00**
+ This page was last updated **2024-11-01 08:38:20 UTC-04:00**
 
- **Note: This is temporarily down since I need to find another free-tier EC2**
+ **Note: This is temporarily down since I need to find another free-tier EC2. Last autonomous update occured on October 17, 2023**
 
 ![](https://komarev.com/ghpvc/?username=vninja007&style=for-the-badge&label=%20&color=FFFFFF)
