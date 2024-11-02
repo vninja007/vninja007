@@ -1,6 +1,6 @@
 # Hello! 👋
 
-### I'm Vrishak Vemuri, a junior at TJHSST.
+### I'm Vrishak Vemuri, a senior at TJHSST.
 
 - 🗺️ I'm from Aldie, Virginia (EST/EDT)
 - 😎 ENFJ-T
@@ -51,7 +51,7 @@ Watch some Star Wars in the meantime
 
 ![](https://github.com/vninja007/ReadmeUpdater/blob/main/star%20wars.gif)
 
- This page was last updated **2023-10-17 09:00:08 UTC+00:00**
+ This page was last updated **2024-11-01 08:37:53 UTC-04:00**
 
  **Note: This is temporarily down since I need to find another free-tier EC2**
 
